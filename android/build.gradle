@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.packages.creappi.zebrautility"
+    namespace "com.professor.zebrautility"
     compileSdkVersion 29
 
     defaultConfig {
